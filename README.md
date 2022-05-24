@@ -20,4 +20,5 @@
 **Use these resources to get going:**
 
 [Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [Getting Started with GitHub Pages](https://docs.github.com/en/pages/quickstart)
