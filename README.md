@@ -8,6 +8,8 @@
 
 ## Code 401 - Advanced Software Development
 
+[checkout my sql summary](./prep/sql/sql.md) 
+
 
 
 
