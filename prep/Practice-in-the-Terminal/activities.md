@@ -41,15 +41,15 @@ We now have at our disposal, various commands to actually interact with the syst
 
 **Screen Shots for practicing the required activities:**
 
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(119).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(120).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(121).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(122).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(123).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(125).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(126).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(127).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(128).png)
-![img](../Practice%20in%20the%20Terminal/screenshots/Screenshot%20(129).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(119).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(120).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(121).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(122).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(123).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(125).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(126).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(127).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(128).png)
+![img](../Practice-in-the-Terminal/screenshots/Screenshot%20(129).png)
 
 

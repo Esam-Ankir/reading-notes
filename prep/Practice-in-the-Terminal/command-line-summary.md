@@ -208,7 +208,6 @@ Common options: -r -f
 
 **May be used anywhere in any path.**
 
-*****
 
 Zero or more characters (eg. b*).
 
@@ -238,6 +237,6 @@ Redirect the STDERR to a file.
 
 Pass the contents of a file to a program as STDIN.
 
-**|**
+|
 
 Feed the STDOUT of the program on the left as STDIN to the program on the right.
