@@ -9,8 +9,8 @@
 ## Code 401 - Advanced Software Development
 
 [checkout my sql summary](./prep/sql/sql.md) 
-[checkout my practicing in the Terminal](./prep/Practice%20in%20the%20Terminal/activities.md)
-[checkout my command line summary](./prep/Practice%20in%20the%20Terminal/command%20line%20summary.md) 
+[checkout my practicing in the Terminal](./prep/Practice-in-the-Terminal/activities.md)
+[checkout my command line summary](./prep/Practice-in-the-Terminal/command-line-summary.md) 
 
 
 
