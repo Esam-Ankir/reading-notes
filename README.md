@@ -8,20 +8,25 @@
 
 ## Code 401 - Advanced Software Development
 
-[checkout my sql summary](./prep/sql/sql.md) 
+### Table of Contents:
 
-[checkout my practicing in the Terminal](./prep/Practice-in-the-Terminal/activities.md)
+[sql summary](./prep/sql/sql.md) 
 
-[checkout my command line summary](./prep/Practice-in-the-Terminal/command-line-summary.md) 
+[practicing in the Terminal](./prep/Practice-in-the-Terminal/activities.md)
 
+[command line summary](./prep/Practice-in-the-Terminal/command-line-summary.md) 
 
-
-
-
-
+[introduction to Epress](./prep/express.md) 
 
 
-*****
+
+
+
+
+## Things I want to know more about
+
+debugging skills
+
 
 **Use these resources to get going:**
 
