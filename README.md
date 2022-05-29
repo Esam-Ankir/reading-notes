@@ -8,7 +8,7 @@
 
 ## Code 401 - Advanced Software Development
 
-### Table of Contents:
+### Content Links:
 
 [sql summary](./prep/sql/sql.md) 
 
@@ -20,7 +20,10 @@
 
 [introduction to Epress](./prep/express.md) 
 
-[GIT Practice]()
+[Practice GIT](./prep/git-practice/git-practice.md)
+
+[Practice Typing](./prep/Typing-Practice/Typing-Practice.md)
+
 
 
 
