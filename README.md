@@ -18,8 +18,6 @@
 
 [introduction to Epress](./prep/express.md) 
 
-[introduction to Epress](./prep/express.md) 
-
 [Practice GIT](./prep/git-practice/git-practice.md)
 
 [Practice Typing](./prep/Typing-Practice/Typing-Practice.md)
