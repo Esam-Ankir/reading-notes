@@ -43,5 +43,5 @@ The amount of memory resources a function uses to store data and instructions.
 
 
 ## Resources
-•	Read and save for reference: Big O: Analysis of Algorithm Efficiency (Up through the section titled “Linear Complexity Growth”)
+[read more](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 

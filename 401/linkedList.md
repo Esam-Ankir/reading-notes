@@ -45,7 +45,8 @@ a linked list is usually efficient when it comes to adding and removing most ele
 
 
 ## Resources
-•	Read: Linked Lists
-•	Read: What’s a Linked List, Anyway pt1
-•	Read: What’s a Linked List, Anyway pt2
+[codefellows](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
 
+[medium part 1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+
+[medium part 1](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
