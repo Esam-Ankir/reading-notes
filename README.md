@@ -23,7 +23,12 @@
 
 [introduction to Epress](./401/express.md) 
 
-[ES6 Classes and  Express Routing](./401/class-routing.md)
+[ES6 Classes and Express Routing](./401/class-routing.md)
+
+[Big O](./401/BigO.md)
+
+[Linked List](./401/linkedList.md)
+
 
 
 
