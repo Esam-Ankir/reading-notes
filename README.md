@@ -29,6 +29,9 @@
 
 [Linked List](./401/linkedList.md)
 
+[NoSQL Vs SQL and Data Modeling and Sequelize](./401/nosqlVSsql.md)
+
+
 
 
 
