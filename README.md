@@ -31,6 +31,9 @@
 
 [NoSQL Vs SQL and Data Modeling and Sequelize](./401/nosqlVSsql.md)
 
+[sequelize-normalization](./401/equelizeNormalization.md)
+
+
 
 
 
