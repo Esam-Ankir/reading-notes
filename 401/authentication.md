@@ -10,14 +10,14 @@ Hashing is the greatest way for protecting passwords and considered to be pretty
 ## Problems With Cryptographic Hash Algorithm
 - Brute Force attack.
 
-Hashes can't be reversed >> An attacker can simply keep trying different inputs until he does not find the right now that generates the same hash value.
+Hashes can't be reversed  An attacker can simply keep trying different inputs until he does not find the right now that generates the same hash value.
 - Hash Collision attack.
 
-Hash functions have infinite input length and a predefined output length >> There is inevitably going to be the possibility of two different inputs that produce the same output hash.
+Hash functions have infinite input length and a predefined output length  There is inevitably going to be the possibility of two different inputs that produce the same output hash.
 
 ### What exactly could be a good for securing your passwords with hashing?
 - PBKDF2.
-- BCrypt: It's slow and so strong >> This work factor value determines how slow the hash function will be, means different work factor will generate different hash values in different time span, which makes it extremely resistant to brute force attacks.
+- BCrypt: It's slow and so strong  This work factor value determines how slow the hash function will be, means different work factor will generate different hash values in different time span, which makes it extremely resistant to brute force attacks.
 #### Both of these algorithms use a technique called *Key Stretching*.
 
 ## Basic Access Authentication
@@ -40,59 +40,59 @@ The server may choose to include the charset parameter:
 #### Client side:
 `username:password`
 
-Or `QWxhZGRpbjpvcGVuIHNlc2FtZQ==` >> `Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`
+Or `QWxhZGRpbjpvcGVuIHNlc2FtZQ==`  `Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`
 
 
 ## NPM
->> npm install bcrypt
+ npm install bcrypt
 
 ### Usage
 #### async: 
 
->> const bcrypt = require('bcrypt');
->> 
->> const saltRounds = 10;
->> 
->> const myPlaintextPassword = 's0/\/\P4$$w0rD';
->> 
->> const someOtherPlaintextPassword = 'not_bacon';
+ const bcrypt = require('bcrypt');
+ 
+ const saltRounds = 10;
+ 
+ const myPlaintextPassword = 's0/\/\P4$$w0rD';
+ 
+ const someOtherPlaintextPassword = 'not_bacon';
 
 #### To hash a password:
 
->> // Auto-gen a salt and hash
->> 
->> bcrypt.hash(myPlaintextPassword, saltRounds, function(err, hash) {
->> 
->>   // Store hash in your password DB.
->>   
->> });
+ // Auto-gen a salt and hash
+ 
+ bcrypt.hash(myPlaintextPassword, saltRounds, function(err, hash) {
+ 
+   // Store hash in your password DB.
+   
+ });
 
 
->> // Generate a salt and hash on separate function calls
->> 
->> bcrypt.genSalt(saltRounds, function(err, salt) {
->> 
->>    bcrypt.hash(myPlaintextPassword, salt, function(err, hash) {    
->>        // Store hash in your password DB.      
->>    });
->>    
->> });
+ // Generate a salt and hash on separate function calls
+ 
+ bcrypt.genSalt(saltRounds, function(err, salt) {
+ 
+    bcrypt.hash(myPlaintextPassword, salt, function(err, hash) {    
+        // Store hash in your password DB.      
+    });
+    
+ });
 
 #### To check a password:
 
->> // Load hash from your password DB.
->> 
->> bcrypt.compare(myPlaintextPassword, hash, function(err, result) {
->> 
->>    // result == true
->>    
->> });
->> 
->> bcrypt.compare(someOtherPlaintextPassword, hash, function(err, result) {
->> 
->>    // result == false
->>    
->> });
+ // Load hash from your password DB.
+ 
+ bcrypt.compare(myPlaintextPassword, hash, function(err, result) {
+ 
+    // result == true
+    
+ });
+ 
+ bcrypt.compare(someOtherPlaintextPassword, hash, function(err, result) {
+ 
+    // result == false
+    
+ });
 
 
 
