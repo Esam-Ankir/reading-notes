@@ -33,6 +33,9 @@
 
 [sequelize-normalization](./401/equelizeNormalization.md)
 
+[Authentication](./401/authentication.md)
+
+
 
 
 
