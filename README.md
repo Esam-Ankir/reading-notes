@@ -61,7 +61,7 @@
 
 [AWS : S3, Lambda Basics and CDN](./401/S3andLambda.md)
 
-[AWS : Events](./401/AWS%3AEvents.md)
+[AWS : Events](./401/AWS-Events.md)
 
 
 
