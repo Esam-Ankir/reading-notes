@@ -1,4 +1,4 @@
-# useEffect Hook
+# # Reading: useEffect() Hook
 
 If you’re familiar with React class lifecycle methods, you can think of ***useEffectHook***  as ***componentDidMount, componentDidUpdate, and componentWillUnmount combined***.
 
