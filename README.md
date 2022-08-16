@@ -69,7 +69,10 @@
 
 [React Hooks: useState() Hook](./401/Hooks.md)
 
-[React Hooks: useEffect() Hook](./401/assets/useEffect.md)
+[React Hooks: useEffect() Hook](./401/useEffect.md)
+
+[React Hooks: useReducer() Hook](./401/useReducer.md)
+
 
 
 
