@@ -73,6 +73,9 @@
 
 [React Hooks: useReducer() Hook](./401/useReducer.md)
 
+[Hash Table](./401/hashTable.md)
+
+
 
 
 
