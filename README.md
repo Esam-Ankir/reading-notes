@@ -77,7 +77,12 @@
 
 [Context API](./401/contextAPI.md)
 
-[Context API Behaviors](./401/contextAPI-behaviors.md)
+[[Context API Behaviors](./401/contextAPI-behaviors.md)
+
+[ROLE-BASED ACCESS CONTROL (RBAC)](./401/RBAC.md)
+
+[API Integration & Authentication Server / Module](./401/API-integration.md)
+
 
 
 
