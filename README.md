@@ -83,6 +83,11 @@
 
 [API Integration & Authentication Server / Module](./401/API-integration.md)
 
+[Redux](./401/redux.md)
+
+[Graphs](./401/graphs.md)
+
+[Redux - Combined Reducers](./401/CombinedReducers.md)
 
 [Redux - Asynchronous Actions](./401/AsynchronousActions.md)
 
